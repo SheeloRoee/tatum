@@ -1,4 +1,4 @@
-import utils
+from utils import *
 
 class Chaining(object):
     """ Basic ActiveRecord-like wrapper for PyMongo queries
