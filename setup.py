@@ -8,10 +8,9 @@ setup(name='tatum',
       description='A Simple Chaining Wrapper for PyMongo Aggregated Queries',
       url='http://github.com/sheeloroee/tatum',
       classifiers=[
-        'Development Status :: 3 - Alpha',
         'License :: OSI Approved :: MIT License',
         'Programming Language :: Python :: 2.7',
-        'Topic :: NoSQL :: PyMongo :: Chaining :: Queries',
+        "Operating System :: OS Independent"
       ],
       keywords='nosql mongo pymongo mongodb queries chaining aggregation wrapper db',
       author='SheeloRoee',
