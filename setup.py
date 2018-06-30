@@ -1,8 +1,7 @@
 from setuptools import setup
 
-def readme():
-    with open('README.rst') as f:
-        return f.read()
+with open("README.md", "r") as fh:
+  long_description = fh.read()
 
 setup(name='tatum',
       version='0.1',

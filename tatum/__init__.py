@@ -242,3 +242,5 @@ class Chaining(object):
                 query.append({k: v})
 
         return query
+
+name = "tatum"
